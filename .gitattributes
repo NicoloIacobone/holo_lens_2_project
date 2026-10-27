@@ -1,0 +1,20 @@
+# Normalise line endings for text files
+* text=auto
+
+# Unity YAML assets: use Unity's Smart Merge (UnityYAMLMerge) if configured
+*.unity    merge=unityyamlmerge eol=lf
+*.prefab   merge=unityyamlmerge eol=lf
+*.asset    merge=unityyamlmerge eol=lf
+*.mat      merge=unityyamlmerge eol=lf
+*.meta     merge=unityyamlmerge eol=lf
+*.lighting merge=unityyamlmerge eol=lf
+
+# Binary files
+*.png   binary
+*.jpg   binary
+*.fbx   binary
+*.blend binary
+*.mp4   binary
+*.tgz   binary
+*.ttf   binary
+*.otf   binary

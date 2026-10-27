@@ -1,0 +1,71 @@
+# ---------------------------------------------------------------
+# Unity project (lives in the "holo_lens_2_project" sub-folder)
+# ---------------------------------------------------------------
+/holo_lens_2_project/[Ll]ibrary/
+/holo_lens_2_project/[Tt]emp/
+/holo_lens_2_project/[Oo]bj/
+/holo_lens_2_project/[Bb]uild/
+/holo_lens_2_project/[Bb]uilds/
+/holo_lens_2_project/[Ll]ogs/
+/holo_lens_2_project/[Uu]ser[Ss]ettings/
+/holo_lens_2_project/[Mm]emoryCaptures/
+/holo_lens_2_project/[Rr]ecordings/
+
+# Auto-generated IDE / solution files
+/holo_lens_2_project/.vs/
+/holo_lens_2_project/.vscode/
+/holo_lens_2_project/.idea/
+/holo_lens_2_project/.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity crash reports / builds
+sysinfo.txt
+*.apk
+*.aab
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# ---------------------------------------------------------------
+# Generated UWP / Visual Studio build output (IL2CPP)
+# Re-create it from Unity: File > Build Settings > Universal Windows Platform > Build
+# ---------------------------------------------------------------
+/build/
+
+# ---------------------------------------------------------------
+# Signing certificates (contain a private key - never commit them)
+# Unity can create a new test certificate:
+# Project Settings > Player > Publishing Settings > Certificate > Create
+# ---------------------------------------------------------------
+*.pfx
+*.pfx.meta
+
+# ---------------------------------------------------------------
+# Original full-size screen recording (a compressed copy is in docs/)
+# ---------------------------------------------------------------
+/DemoVideo.mp4
+
+# Blender auto-backups
+*.blend1
+*.blend1.meta
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
