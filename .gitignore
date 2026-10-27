@@ -69,3 +69,6 @@ crashlytics-build.properties
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Local backup of files removed during the repository cleanup
+/project_removed_files/
